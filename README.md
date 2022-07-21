@@ -40,7 +40,7 @@ If you understand the tutorial completely, you will be able to easily model with
 ### Step 1 Loading custom function
 Loading custom function for optimization DLNM and visualization the results
 
-### Step 2 Load and being ready to data
+### Step 2 Loading and being ready to data
 Loading and being ready to data. 
 
 In this step, I manipulated the data for the tutorial. 
@@ -51,7 +51,7 @@ Don't mind! It's just a reproducible example.
 
 EDA with {patchwork}
 
-### Step 4 Add some seasonality terms
+### Step 4 Adding some seasonality terms
 
 Adding some fourier terms for daily and weekly seasonalities
 
