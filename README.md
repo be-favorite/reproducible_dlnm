@@ -23,15 +23,17 @@ If you understand the tutorial completely, you will be able to easily model with
 
 ### Before starting
 
-- Click "Code" above and Download this repo
+- Click "Code" above and download this repo
 
 <p align="center">
 <img src = "./instruction.png" width = "600"> 
 </p>
 
-- open .Rpoj in the downloaded folder
+- open the R project file `reproducible_dlnm.Rpoj` in the downloaded folder `reproducible_dlnm-main`
 
 - open the code `paper_reproducible_tutorial_code.R`
+
+- Run code line by line
 
 - The steps below are a summary of the tutorial process.
 
