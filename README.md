@@ -39,6 +39,22 @@ Adding some fourier terms for daily and weekly seasonalities
 
 Optimizing DLNM for each cities and doing multivariate meta-analysis (fixed effect)
 
+In this step, the optimal model is saved as .Rdata on `"./Best models/"`
+
+The optimal model object includes lot's of informations:
+
+- `tuned_best`: The results of grid search
+
+- `formula`: The formula of optimal model
+
+- `cb`: The cross-basis matrix of optimal model.
+
+- `predictions`: predicted values
+
+- `highlow`: predicted values for visualizing high effect and low effect plots
+
 ### Step 6 Visualization
 
 Visualizing the analsis results with {ggplot2} and {patchwork}
+
+In this step, all figures are saved as .png on `"./plot/"`
