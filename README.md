@@ -23,9 +23,13 @@ If you understand the tutorial completely, you will be able to easily model with
 
 ### Before starting
 
-- Download this repo
+- Click "Code" above and Download this repo
 
-- open .Rpoj
+<p align="center">
+<img src = "./instruction.png" width = "600"> 
+</p>
+
+- open .Rpoj in the downloaded folder
 
 - open the code `paper_reproducible_tutorial_code.R`
 
