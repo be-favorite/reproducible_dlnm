@@ -21,6 +21,14 @@ If you understand the tutorial completely, you will be able to easily model with
 
 ## 🔎 Tutorial detail
 
+### Before starting
+
+- Download this repo
+
+- open .Rpoj
+
+- open the code `paper_reproducible_tutorial_code.R`
+
 ### Step 1 Loading custom function
 Loading custom function for optimization DLNM and visualization the results
 
