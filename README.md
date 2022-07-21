@@ -15,6 +15,10 @@ The model with the smallest QAIC value is selected as the best model.
 
 However, the algorithm selects the simplest model if there are models with a QAIC diffrences of less than 2 from the optimal model.
 
+The code in this tutorial is written in tidyverse syntax.
+
+If you understand the tutorial completely, you will be able to easily model with more cities, covariates, etc., by making small modifications to `./paper_reproducible_tutorial_code.R` and `./paper_reproducible_tutorial_custom_function.R`.
+
 ## 🔎 Tutorial detail
 
 ### Step 1 Loading custom function
@@ -25,7 +29,7 @@ Loading and being ready to data.
 
 In this step, I manipulated the data for the tutorial. 
 
-Don't mind! Just a reproducible example!.
+Don't mind! It's just a reproducible example.
 
 ### Step 3 EDA
 
@@ -37,7 +41,7 @@ Adding some fourier terms for daily and weekly seasonalities
 
 ### Step 5 Optimization and multivariate meta-analysis
 
-Optimizing DLNM for each cities and doing multivariate meta-analysis (fixed effect)
+Optimizing DLNM for each cities using parallel processing and doing multivariate meta-analysis (fixed effect)
 
 In this step, the optimal model is saved as .Rdata on `"./Best models/"`
 
