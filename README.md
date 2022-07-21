@@ -33,6 +33,8 @@ If you understand the tutorial completely, you will be able to easily model with
 
 - open the code `paper_reproducible_tutorial_code.R`
 
+- The steps below are a summary of the tutorial process.
+
 ### Step 1 Loading custom function
 Loading custom function for optimization DLNM and visualization the results
 
