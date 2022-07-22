@@ -31,7 +31,7 @@ If you understand the tutorial completely, you will be able to easily model with
 
 - open the R project file `reproducible_dlnm.Rpoj` in the downloaded folder `reproducible_dlnm-main`
 
-- open the code `paper_reproducible_tutorial_code.R`
+- open the code `paper_reproducible_tutorial_code.R` in Rstudio environment
 
 - Run code line by line
 
