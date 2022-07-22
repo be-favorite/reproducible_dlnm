@@ -41,7 +41,7 @@ If you understand the tutorial completely, you will be able to easily model with
 Loading custom function for optimization DLNM and visualization the results
 
 ### Step 2 Loading and being ready to data
-Loading and being ready to data. 
+Loading data. 
 
 In this step, I manipulated the data for the tutorial. 
 
